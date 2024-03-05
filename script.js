@@ -19,9 +19,7 @@ var carSeller1 = {
     }
 }
 
-
 carSeller1.calculate();
-
 console.log(carSeller1);
 
 

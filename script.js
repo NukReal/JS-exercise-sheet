@@ -18,10 +18,8 @@ var carSeller1 = {
             this.discount = discount;
     }
 }
-
 carSeller1.calculate();
 console.log(carSeller1);
-
 
 /*var cars = [
     {
@@ -113,7 +111,6 @@ console.log(sellers[0].cars[1].carModel);
 /*var names = ["John", "Jane", "Jack", "Jim"];
 console.log(names);
 //names[4]
-
 
 var x = names.push("Jeen");
 x = names.push("Nukri");
